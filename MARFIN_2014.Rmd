@@ -13,26 +13,30 @@ J. Kevin Craig^1^, James Nance^2^, Katie Andrews^1^
 ^1^ Beaufort Laboratory, National Marine Fisheries Service, Beaufort, NC, USA  
 ^2^ Galveston Laboratory, National Marine Fisheries Service, Galveston, TX, USA 
 
-## Project Objectives:
+## Project Objectives:  
 * Characterize the temporal and spatial dynamics of incidental catc within the Gulf of Mexico shrimp fishery.  
 * Identify the location of bycatch hotspots within the western Gulf of Mexico for total bycatch, and specifically for several federally managed finfish species including Red Snapper, Vermillian Snapper, Greater Amberjack, King Mackeral and Spanish Mackeral.  
 * Evaluate the correlation between the bycatch estimates derived from fishery-independent and fishery-dependent sources.  
 * Estimate the effect of shrimping effort on the spatial dyanmics of incidental catch using a variable coefficient generalized additive modeling framework.  
 
+## Describe work to be performed:  
 
-## Describe work to be performed:
-+Into
-Incidental catch of non-target resources, bycatch, is a conservation [@kelleher2005discards via Sims2008] and management concern [@Gardner2008spatial].
+Fishery bycatch or the incidental capture of non-target species is an important issue of global conservation [@kelleher2005discards via Sims2008] and management concern [@Gardner2008spatial].  Interest in
 
 Of particlular concern for fishing gears with indiscrinante targeting (eg longline, trawls) [@Gardner2008spatial]
 
+Fleet dynamics are spatially heterogeneous and the little is known about the relationship between the spatial distribution of fishery effort and the spatial distribution of fishery bycatch. 
+
+Increasing interest in fishery bycatch is apparent in the peer-reviewed literature [@soykan2008why] with a number of studies focusing on the Gulf of Mexico examining issues on the feasibility of bycatch quotas [@diamond2004bycatch], bycatch species composition [Scott-Denton2012characterization], as well as population level examination of the impact of fishing on elasmobranchs [@shepherd2005direct], Atlantic croaker (*Micropogonias undulatus*)[@diamond2000population], and Red snapper (*Lutjanus campechanus*)[gallaway1998estimates].  We propose to expand on this work by utilizing fishery-dependent and independent data sets currently available for the Gulf of Mexico to examine the relationship between the spatial and temporal distribution of both shrimp fishery effort and observer reported fishery bycatch, to better understand the interaction between fishery effort, resource abundance and the spatial distribution of incidental catch.
 
 
-+Proposition
-Fleet dynamics are spatially heterogeneous and the little is known about the relationship between the spatial distribution of fishery effort and the spatial distribution of fishery bycatch.  In this study we aim to examine the relationship between the spatial and temporal distribution of both shrimp fishery effort and observer reported fishery bycatch, to better understand the relationship b
+ 
 +Methods
-+Application
+Data sets
+Regression modeling
 
++Application
+Improve assessment methods (ask Katie about a reference for the bycatch/seamap estimates)
 
 
 
