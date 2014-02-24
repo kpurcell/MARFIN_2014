@@ -1,0 +1,37 @@
+### **MARFIN IN-HOUSE PROPOSAL**
+
+#### Proposal Number:
+
+#### Title of Project:
+
+#### Applicant:
+J. Kevin Craig
+
+#### Principle Investigators (Must be NMFS employees):
+J. Kevin Craig, James Nance, Katie Andrews
+
+#### Project Objectives:
+* one
+* two
+
+#### Describe work to be performed:
+
+```{r dataImport, echo=FALSE,warning=FALSE, message=FALSE}
+elbData
+shEff
+
+```
+
+#### Detailed Budget Estimate (Do not list NMFS employee salaries):
+
+
+
+
+
+#### FUNDING REQUESTED (ONE YEAR):
+
+**MARFIN Funding**:  
+**Other Funding**:  
+**Total Funding**:  
+
+
