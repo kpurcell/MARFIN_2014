@@ -14,7 +14,7 @@ J. Kevin Craig^1^, James Nance^2^, Katie Andrews^1^
 ^2^ Galveston Laboratory, National Marine Fisheries Service, Galveston, TX, USA 
 
 ## Project Objectives:  
-* Characterize the temporal and spatial dynamics of incidental catc within the Gulf of Mexico shrimp fishery.  
+* Characterize the temporal and spatial dynamics of incidental bycatch within the Gulf of Mexico shrimp fishery.  
 * Identify the location of bycatch hotspots within the western Gulf of Mexico for total bycatch, and specifically for several federally managed finfish species including Red Snapper, Vermillian Snapper, Greater Amberjack, King Mackeral and Spanish Mackeral.  
 * Evaluate the correlation between the bycatch estimates derived from fishery-independent and fishery-dependent sources.  
 * Estimate the effect of shrimping effort on the spatial dyanmics of incidental catch using a variable coefficient generalized additive modeling framework.  
@@ -29,13 +29,23 @@ Fleet dynamics are spatially heterogeneous and the little is known about the rel
 
 Increasing interest in fishery bycatch is apparent in the peer-reviewed literature [@soykan2008why] with a number of studies focusing on the Gulf of Mexico examining issues on the feasibility of bycatch quotas [@diamond2004bycatch], bycatch species composition [Scott-Denton2012characterization], as well as population level examination of the impact of fishing on elasmobranchs [@shepherd2005direct], Atlantic croaker (*Micropogonias undulatus*)[@diamond2000population], and Red snapper (*Lutjanus campechanus*)[gallaway1998estimates].  We propose to expand on this work by utilizing fishery-dependent and independent data sets currently available for the Gulf of Mexico to examine the relationship between the spatial and temporal distribution of both shrimp fishery effort and observer reported fishery bycatch, to better understand the interaction between fishery effort, resource abundance and the spatial distribution of incidental catch.
 
-
- 
-+Methods
 Data sets
+There are four managed data sets that house information concerning the dynamics of the Gulf shrimp fishery including three fishery-dependent monitoring data sets and a fishery-independent trawl survery.  
+
+The fishery-dependent data sets include the Gulf Shrimp Statistics (GSS) database, an electronic log book (ELB) program, and a fishery observer program.   The GSS database contains details on landings and effort statistics for the Gulf shrimp fishery these data are collected and archived by the National Marine Fishery Service (NMFS) Galveston Laboratory, Texas.  This fishery-dependent data set, a trip-level record of vessel landings and effort for the Gulf shrimp fishery, dates back to 1960 (Nichols 1984, Poffenberger 1991, Nance 1992).  Historically, fishing effort (days fished) for the Gulf shrimp fishery is not measured directly but is estimated, based on non-random interviews conducted by NMFS port agents (Nance 1992, 2008). Constraints in the spatial and temporal resolution of the historical data as well as limitations in the accuracy of port agent assignment of fishing effort (GMFMC 1994), lead to the development of an electronic log book program (ELB) program for the Gulf shrimp fishery [@gallaway2003description].  This program designates a random sample of shrimp vessels on a trimester basis (Jan-Apr, May-Aug, Sep-Dec) to be instrumented with an ELB unit that recordes geographic position at 10 minute intervals and total time for individual shrimp tows.  Fishing effort is identified based on changes in vessel speed and comparisons among the ELB, paper logbooks, and observer records have shown that this methodology provides an accurate representation of the spatial distribution of shrimping effort [@gallaway_development_2001;@gallaway_development_2000;@gallaway_description_2003].  The initial years of the ELB program instrumented a small number of vessels and were considered pilot studies [@gallaway_evaluation_2003;@gallaway_description_2003], currently there are over 9 years (2005-2013) of data covering a wide region of the northwestern Gulf.  The fishery observer program was instituted in the Gulf as a result of federal legistlation.... Details about the observer program from Scott-Denton.  
+
+The fishery-independent data derives from the Southeast Area Monitoring and Assessment Program (SEAMAP) survey [@eldridge_southeast_1988].  The SEAMAP survey is a hydrographic trawl survey that has been conducted semi-annually in the northwestern Gulf  (-88 to -97.3 longitutde and 3-100 m depth) since 1987.  Bottom environmental conditions (e.g., temperatures, salinity, dissolved oxygen, depth) are measured at point locations chosen based on a stratified random sampling design using a conductivity, temperature, depth profiler (CTD).  Additionally, biological samples are collected using 40m trawl nets and captured biomass or samples of catch are measured weighed and identified to species for each station location.  Further details regarding the SEAMAP survey and sampling procedures can be found in Eldridge [@eldridge_southeast_1988] and the annual SEAMAP atlases [@rester_seamap_2011].  
+
+mapping and spatial statistics
+Our initial objective for this project is to examine the spatial and temporal variation of bycatch across the northwestern Gulf region. We plan to examine spatial heterogeneity in bycatch biomass initally at a monthly time step to coordinate with the the temporal modeling of the shrimp stock assessment which characterizes shrimp fishery stocks at a monthly time period [@hart2012???].  
+
+
 Regression modeling
+explain the GAM approach cite lots of sources
 
 +Application
+Identify papers showing issues with bycatch and how our results could fill gaps.
+
 Improve assessment methods (ask Katie about a reference for the bycatch/seamap estimates)
 
 
