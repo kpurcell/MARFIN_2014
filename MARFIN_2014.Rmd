@@ -21,9 +21,7 @@ J. Kevin Craig^1^, James Nance^2^, Katie Andrews^1^
 
 ## Describe work to be performed:  
 
-Fishery bycatch or the incidental capture of non-target species is an important issue of global conservation [@kelleher2005discards via Sims2008] and management concern [@Gardner2008spatial].  Interest in
-
-Of particlular concern for fishing gears with indiscrinante targeting (eg longline, trawls) [@Gardner2008spatial]
+Fishery bycatch or the incidental capture of non-target species is critcal issue of global conservation [@kelleher2005discards via Sims2008] and management concern [@Gardner2008spatial].  Bycatch is of particlular concern for fishing gears with indiscrinante targeting (eg longline, trawls) [@Gardner2008spatial]
 
 Fleet dynamics are spatially heterogeneous and the little is known about the relationship between the spatial distribution of fishery effort and the spatial distribution of fishery bycatch. 
 
@@ -41,7 +39,8 @@ Our initial objective for this project is to examine the spatial and temporal va
 
 
 Regression modeling
-explain the GAM approach cite lots of sources
+
+We propose using a generalized additive model (GAM) approach to investigate relationships between fishing effort and incidental capture rates withing the shrimp fishery using a spatial model formulation, or variable coefficient GAM approach [@hastie_varying-coefficient_1993;@wood_stable_2004;@wood_generalized_2006]. Variable coefficient models are a class of regression model that allow coefficients to vary smoothly as a function of another model variable [@hastie_varying-coefficient_1993].  Variable-coefficient models that map variation in the relationship between a response and predictor variable across space are often referred to as geospatial regression models [@wood_generalized_2006] and have recently be applied to a number of fishery related studies [@bacheler_spatial_2010;@bartolino_ontogenetic_2010;@ciannelli_phenological_2007;@ciannelli_non-additive_2012]. We have recently applied similar model to evaluating effect of seasonal hypoxia in the northwestern Gulf to fleet dynamics in the Gulf shrimp fishery (Fig ?).  
 
 +Application
 Identify papers showing issues with bycatch and how our results could fill gaps.
